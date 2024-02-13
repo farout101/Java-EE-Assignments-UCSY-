@@ -1,1 +1,3 @@
-This is the session for Java EE assignments from University of Computer Studies Yangon.
+The requirements for the provided code <br>
+- Apache Tomcat 10.1 <br>
+- JDK 19 (Java SE 17) 
